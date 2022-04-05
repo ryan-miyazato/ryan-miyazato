@@ -6,12 +6,12 @@
 👻 Welcome to my profile :) <br>
 
 **💡 About me:** <br>
-• 📚 Learning: 
-  - HTML <br>
-  - CSS <br>
-  - JavaScript <br>
-  - MySQL <br>
-• 🎨 Hobbies: 
+- 📚 Learning: 
+  - HTML
+  - CSS 
+  - JavaScript 
+  - MySQL 
+- 🎨 Hobbies: 
   - Drawing
   - Playing instruments
   - Dancing
