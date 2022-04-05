@@ -2,13 +2,13 @@
 <img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
 
 ### ✨ Hey, Hey!
-
+<span style="font-family: Arial">
 Welcome to my profile :) <br>
 
 **About me:** <br>
 - Learning
 
-
+</span>
 
 <!--
 **ryan-miyazato/ryan-miyazato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
