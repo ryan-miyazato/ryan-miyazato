@@ -1,5 +1,5 @@
 
-<img src = "https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif" width = "250px" align = "right">
+<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "250px" align = "right">
 
 ### 👻 Hi!
 🎈 Welcome to my profile :) <br>
