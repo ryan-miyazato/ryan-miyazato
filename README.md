@@ -1,8 +1,12 @@
 
-<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "250px" align = "right">
+<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
 
-### 🎐 Welcome, welcome!
+### ✨ Hey, Hey!
 
+Welcome to my profile :) <br>
+
+**About me:** <br>
+- Learning
 
 
 
