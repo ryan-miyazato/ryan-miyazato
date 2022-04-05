@@ -1,14 +1,23 @@
-<body style="background-color: white">
+
 <img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
 
 ### ✨ Hey, Hey!
-<span style="font-family: Arial">
-Welcome to my profile :) <br>
 
-**About me:** <br>
-- Learning
+👻 Welcome to my profile :) <br>
 
-</span>
+**💡 About me:** <br>
+• 📚 Learning: 
+  - HTML <br>
+  - CSS <br>
+  - JavaScript <br>
+  - MySQL <br>
+• 🎨 Hobbies: 
+  - Drawing
+  - Playing instruments
+  - Dancing
+  - Skateboarding
+  - Tennis
+
 
 <!--
 **ryan-miyazato/ryan-miyazato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</body>
