@@ -1,4 +1,4 @@
-
+<body style="background-color: white">
 <img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
 
 ### ✨ Hey, Hey!
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
