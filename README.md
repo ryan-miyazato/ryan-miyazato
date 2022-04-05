@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👻 Hi!
+🎈 Welcome to my profile :)
+👀 Nothing to see here... 
+
+
 
 <!--
 **ryan-miyazato/ryan-miyazato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
