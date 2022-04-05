@@ -1,9 +1,8 @@
 
 <img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "250px" align = "right">
 
-### 👻 Hi!
-🎈 Welcome to my profile :) <br>
-👀 Nothing to see here... 
+### 🎐 Welcome, welcome!
+
 
 
 
