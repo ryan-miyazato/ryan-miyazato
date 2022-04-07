@@ -9,7 +9,7 @@
   - HTML;
   - CSS;
   - JavaScript; 
-  - MySQL;
+  - MySQL; 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align = "right">
 
