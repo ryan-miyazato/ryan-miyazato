@@ -1,11 +1,11 @@
 <img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align="bottom">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align="right bottom">
 
 
 ### ✨ Hey, Hey!
 
 👻 Welcome to my profile :) <br>
----
+
 **💡 About me:** <br>
 - 📚 **Learning:**
   - HTML
