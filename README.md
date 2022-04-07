@@ -1,5 +1,5 @@
 <img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align="bottom right">
 
 
 ### ✨ Hey, Hey!
@@ -19,7 +19,7 @@
   - Skateboarding
   - Tennis
 
-
+---
 
 <!--
 **ryan-miyazato/ryan-miyazato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
