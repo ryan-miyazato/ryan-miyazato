@@ -1,8 +1,8 @@
-
-<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right"> <br> <br> <br>
-<img height="70%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark">
-
-
+<div style="width: 60%; float: right; display: flex align-items: column;">
+<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark">
+</div>
+<div style="width: 40%; float: left; display: flex align-items: column;">
 ### ✨ Hey, Hey!
 
 👻 Welcome to my profile :) <br>
@@ -20,7 +20,7 @@
   - Skateboarding
   - Tennis
 
----
+</div>
 
 
 
