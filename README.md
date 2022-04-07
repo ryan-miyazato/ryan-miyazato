@@ -1,6 +1,4 @@
-<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align="bottom right">
-
+<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
 
 ### ✨ Hey, Hey!
 
@@ -8,18 +6,20 @@
 
 **💡 About me:** <br>
 - 📚 **Learning:**
-  - HTML
-  - CSS 
-  - JavaScript 
-  - MySQL 
-- 🎨 **Hobbies:**
-  - Drawing
-  - Playing instruments
-  - Dancing
-  - Skateboarding
-  - Tennis
+  - HTML;
+  - CSS;
+  - JavaScript; 
+  - MySQL;
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align = "right">
+
+- 🎨 **Hobbies:**
+  - Drawing;
+  - Playing instruments;
+  - Break Dancing;
+  - Skateboarding;
+  - Tennis;
+
 
 <!--
 **ryan-miyazato/ryan-miyazato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
