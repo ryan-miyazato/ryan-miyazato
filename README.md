@@ -18,6 +18,12 @@
   - Skateboarding
   - Tennis
 
+---
+
+<div>
+<img height="70%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark">
+</div>
+
 
 <!--
 **ryan-miyazato/ryan-miyazato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
