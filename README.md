@@ -1,5 +1,8 @@
 
 <img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
+<div>
+<img height="70%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark">
+</div>
 
 ### ✨ Hey, Hey!
 
@@ -20,9 +23,6 @@
 
 ---
 
-<div>
-<img height="70%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark">
-</div>
 
 
 <!--
