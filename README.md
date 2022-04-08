@@ -6,7 +6,7 @@
 
 **💡 About me:** <br>
 - 📚 **Learning:**
-  - HTML;
+  - HTML <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "20px">
   - CSS;
   - JavaScript; 
   - MySQL; 
