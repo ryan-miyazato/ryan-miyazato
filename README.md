@@ -2,23 +2,24 @@
 
 ### ✨ Hey, Hey!
 
-👻 Welcome to my profile :) <br>
+I'm Ryan, welcome to my profile!<br>
+It's a pleasure to have you here. Take a seat. <br>
 
 **💡 About me:** <br>
-- 📚 **Learning:**
-  - HTML <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" width = "20px">
-  - CSS;
-  - JavaScript; 
-  - MySQL; 
+- 📚 | **Learning:**
+  - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "20px" align = "center"> HTML;
+  - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = "20px" align = "center"> CSS;
+  - <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" width = "20px" align = "center"> JavaScript;
+  - <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width = "20px" align = "center"> MySQL;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align = "right">
 
-- 🎨 **Hobbies:**
-  - Drawing;
-  - Playing instruments;
-  - Break Dancing;
-  - Skateboarding;
-  - Tennis;
+- 🎭 | **Hobbies:**
+  - 🎨 Drawing;
+  - 🎸 Playing instruments;
+  - 💃 Break Dancing;
+  - 🛹 Skateboarding;
+  - 🎾 Tennis;
 
 
 <!--
