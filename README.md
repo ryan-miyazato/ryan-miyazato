@@ -11,6 +11,7 @@ It's a pleasure to have you here. Take a seat. <br>
   - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = "20px" align = "center"> CSS;
   - <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" width = "20px" align = "center"> JavaScript;
   - <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width = "20px" align = "center"> MySQL;
+  - <img src="https://di1rip2pqmccg.cloudfront.net/wp-content/uploads/2020/04/Chart.js.png" width = "20px" align = "center"> ChartJS;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align = "right">
 
