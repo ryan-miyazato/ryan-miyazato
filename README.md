@@ -17,7 +17,7 @@ It's a pleasure to have you here. Take a seat. <br>
 
 - 🎭 | **Hobbies:**
   - 🎨 Drawing;
-  - 🎸 Playing instruments;
+  - 🎸 Playing Instruments;
   - 💃 Break Dancing;
   - 🛹 Skateboarding;
   - 🎾 Tennis;
