@@ -1,4 +1,4 @@
-<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" align = "right" width = "300px">
+<img src = "ame-robot.png" align = "right" width = "320px">
 
 ### ✨ Hey, Hey!
 
