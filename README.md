@@ -3,7 +3,7 @@
 I'm Ryan, welcome to my profile!<br>
 It's a pleasure to have you here. Take a seat. <br>
 
-<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
+<div  align = "right"><img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px"></div>
 
 **💡 About me:** <br>
 - 📚 | **Learning:**
