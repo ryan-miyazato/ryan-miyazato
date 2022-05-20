@@ -1,9 +1,9 @@
-<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
-
 ### ✨ Hey, Hey!
 
 I'm Ryan, welcome to my profile!<br>
 It's a pleasure to have you here. Take a seat. <br>
+
+<img src = "https://c.tenor.com/FgvsLn867wQAAAAj/a-chan-hololive-walfie.gif" width = "300px" align = "right">
 
 **💡 About me:** <br>
 - 📚 | **Learning:**
