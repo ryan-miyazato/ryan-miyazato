@@ -14,6 +14,7 @@ Currently, I'm studing Computer Science at São Paulo Tech School (SPTECH) <br>
   - <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width = "20px" align = "center"> MySQL;
   - <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width = "20px" align = "center"> Python;
   - <img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" width="20px" align = "center"> Java;
+  - <img src="https://play-lh.googleusercontent.com/UeiCnTGunCg4qcuBpFoVqG1DgJZqDsnW2CfY5lldp5ZfcQfr65yKTD53V7ug0kaV48g=w240-h480-rw" width="20px" align = "center"> R;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" align = "right">
 
