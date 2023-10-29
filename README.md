@@ -1,4 +1,4 @@
-### 👋 Yo!
+### 👋 Hey!
 
 <img src = 'https://user-images.githubusercontent.com/99812877/169573822-14b70533-2bd0-4ffc-8053-edde04cd8df3.png' align = 'right' width = '300px'>
 
