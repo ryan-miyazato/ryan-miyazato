@@ -6,9 +6,9 @@ Currently studing Computer Science at São Paulo Tech School (SPTECH) <br>
 ##
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan-miyazato&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="120em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" height="120em"/>
-  <img src = 'https://user-images.githubusercontent.com/99812877/169573822-14b70533-2bd0-4ffc-8053-edde04cd8df3.png' height="120em" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan-miyazato&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="136em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-miyazato&layout=compact&langs_count=7&theme=onedark" height="136em"/>
+  <img src = 'https://user-images.githubusercontent.com/99812877/169573822-14b70533-2bd0-4ffc-8053-edde04cd8df3.png' height="136em" align="right"/>
 </div>
 
 ##
